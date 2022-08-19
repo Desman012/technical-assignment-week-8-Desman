@@ -10,9 +10,9 @@ def location_api():
     longitude = request.args.get('longitude')
     timestamp = datetime.datetime.now()
     return{
-        'kecepatan': kecepatan,
-        'latitude': latitude,
-        'longitude': longitude,
+        "kecepatan": kecepatan,
+        "latitude": latitude,
+        "longitude": longitude
     }
 
 if __name__ == '__main__':
