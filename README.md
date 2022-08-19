@@ -19,7 +19,7 @@
 * timestamp
 
 ## Jawab
-1. Untuk script json disimpan di file ```bodyjson.py```
+1. Untuk script json disimpan di file ```bodyJson.py```
 2. Expected body menggunakan Postman
 ![Screenshot 2022-08-19 164255](https://user-images.githubusercontent.com/107124396/185592075-229dbf83-aafe-4fc7-85d6-3c7d760d3b18.png)
 3. Untuk script menyimpan data ke mongodb disimpan di file ```db_location.py```
